@@ -3,8 +3,6 @@
   
   <remote name="github"
           fetch="https://github.com" />
-  
-  <remove-project name="kernel_xiaomi-sdm660-4.19" />
 
   <!-- Trees -->
   <project path="device/xiaomi/lavender" name="CherishOS-Devices/device_xiaomi_lavender" remote="github" revision="eleven" />
