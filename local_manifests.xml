@@ -7,5 +7,5 @@
   <!-- Trees -->
   <project path="device/xiaomi/lavender" name="hungphan2001/android_device_xiaomi_lavender" remote="github" revision="eleven" />
   <project path="kernel/xiaomi/sdm660" name="PixelPlusUI-Devices/android_kernel_xiaomi_lavender" remote="github" revision="eleven" />
-  <project path="vendor/xiaomi/lavender" name="sohamxda7/android_vendor_xiaomi_lavender" remote="github" revision="eleven" />
+  <project path="vendor/xiaomi/lavender" name="sohamxda7/android_vendor_xiaomi_lavender" remote="github" revision="bliss-4.4" />
 </manifest>
