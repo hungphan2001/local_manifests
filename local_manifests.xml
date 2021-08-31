@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Trees -->
-  <project path="device/xiaomi/lavender" name="hungphan2001/android_device_xiaomi_lavender" remote="github" revision="eleven" />
-  <project path="kernel/xiaomi/lavender" name="stormbreaker-project/kernel_xiaomi_lavender" remote="github" revision="oldcam-eas" />
+  <project path="device/xiaomi/lavender" name="hungphan2001/android_device_xiaomi_lavender" remote="github" revision="x" />
+  <project path="kernel/xiaomi/lavender" name="NotZeetaa/nexus_kernel_lavender" remote="github" revision="eas" />
   <project path="vendor/xiaomi/lavender" name="PixelPlusUI-Devices/android_vendor_xiaomi_lavender" remote="github" revision="eleven" />
 </manifest>
