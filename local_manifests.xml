@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Trees -->
-  <project path="device/xiaomi/lavender" name="hungphan2001/android_device_xiaomi_lavender" remote="github" revision="eleven" />
-  <project path="kernel/xiaomi/lavender" name="stormbreaker-project/kernel_xiaomi_lavender" remote="github" revision="oldcam-hmp" />
-  <project path="vendor/xiaomi/lavender" name="PixelPlusUI-Devices/android_vendor_xiaomi_lavender" remote="github" revision="eleven" />
+  <project path="device/xiaomi/alioth" name="sakhiofsakshi/device_xiaomi_alioth" remote="github" revision="12" />
+  <project path="device/xiaomi/sm8250-common" name="sakhiofsakshi/device_xiaomi_sm8250-common" remote="github" revision="12" />
+  <project path="vendor/xiaomi/alioth" name="sakhiofsakshi/vendor_xiaomi_alioth" remote="github" revision="12" />
+  <project path="vendor/xiaomi/sm8250-common" name="sakhiofsakshi/vendor_xiaomi_sm8250-common" remote="github" revision="12" />
+  <project path="vendor/xiaomi/sm8250-common-extra" name="thunderkex/vendor_xiaomi_sm8250-common-extra" remote="github" revision="12" />
+  <project path="kernel/xiaomi/alioth" name="SukeeratSG/kernel_xiaomi_alioth kernel/xiaomi/alioth" remote="github" revision="havoc" />
 </manifest>
